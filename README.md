@@ -43,4 +43,4 @@ The website is deployed and live at: [My Portfolio Website](https://rezuanaupoma
 
 Here is a screenshot of the portfolio website:
 
-![Screenshot](images/my_website.png)
+![Screenshot](/my_website.png)
